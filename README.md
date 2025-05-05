@@ -1,7 +1,7 @@
 # Data-Analytics-Project
-Banking Dashboard in Power BI – Project
 
 Overview:
+
 This Power BI Banking Dashboard project focuses on risk analytics in financial services, enabling banks to assess loan applicants' profiles and make informed lending decisions. The dataset consists of multiple interlinked tables covering banking relationships, financial transactions, and client details
 
 
